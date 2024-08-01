@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is **Madhura Ashture** and I'm an MCA Engineering student.</p>
+<p align="left">My name is Madhura Ashture and I'm an MCA Engineering student.</p>
 
 ###
 
