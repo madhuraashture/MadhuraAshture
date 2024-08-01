@@ -1,4 +1,4 @@
-f<h1 align="left">Hey  👋</h1>
+<h1 align="left">Hey  👋</h1>
 
 ###
 
@@ -83,7 +83,7 @@ f<h1 align="left">Hey  👋</h1>
 ###
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mrjuice01/mrjuice01/output/snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/madhuraashture/madhuraashture/blob/output/github-contribution-grid-snake2.svg)
 <!--<img src="https://raw.githubusercontent.com/madhuraashture/madhuraashture/output/snake.svg" alt="Snake animation" />->
 
 ###
