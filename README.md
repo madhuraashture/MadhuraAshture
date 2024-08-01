@@ -1,8 +1,8 @@
-<h1 align="left">Hey  👋</h1>
+f<h1 align="left">Hey  👋</h1>
 
 ###
 
-<p align="left">My name is Madhura Ashture and I'm an MCA Engineering student.</p>
+<p align="left">My name is **Madhura Ashture** and I'm an MCA Engineering student.</p>
 
 ###
 
@@ -81,8 +81,10 @@
 </div>
 
 ###
+<br clear="both">
 
-<img src="https://raw.githubusercontent.com/madhuraashture/madhuraashture/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/mrjuice01/mrjuice01/output/snake.svg" alt="Snake animation" />
+<!--<img src="https://raw.githubusercontent.com/madhuraashture/madhuraashture/output/snake.svg" alt="Snake animation" />->
 
 ###
 
@@ -91,8 +93,8 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" ahref="madhuraashture@gmail.com"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"   />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
 </div>
 
