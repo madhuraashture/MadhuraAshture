@@ -83,8 +83,8 @@
 ###
 <br clear="both">
 
-![snake animation](https://github.com/madhuraashture/madhuraashture/blob/output/github-contribution-grid-snake2.svg)
-<!--<img src="https://raw.githubusercontent.com/madhuraashture/madhuraashture/output/snake.svg" alt="Snake animation" />->
+<!--![snake animation](https://github.com/madhuraashture/madhuraashture/blob/output/github-contribution-grid-snake2.svg)
+<img src="https://raw.githubusercontent.com/madhuraashture/madhuraashture/output/snake.svg" alt="Snake animation" />-->
 
 ###
 
