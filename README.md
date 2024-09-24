@@ -86,13 +86,13 @@
 <!--![snake animation](https://github.com/madhuraashture/madhuraashture/blob/output/github-contribution-grid-snake2.svg)
 <img src="https://raw.githubusercontent.com/madhuraashture/madhuraashture/output/snake.svg" alt="Snake animation" />-->
 
-###
+<!--###
 
 <p align="left">Connect with me</p>
 
 ###
 
-<!--<div align="left">
+<div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" ahref="madhuraashture@gmail.com"  />
   <img src="https://raw.githubusercontent.com//profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"   />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
