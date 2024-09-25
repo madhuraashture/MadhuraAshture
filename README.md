@@ -86,10 +86,12 @@
 <!--![snake animation](https://github.com/madhuraashture/madhuraashture/blob/output/github-contribution-grid-snake2.svg)
 <img src="https://raw.githubusercontent.com/madhuraashture/madhuraashture/output/snake.svg" alt="Snake animation" />-->
 
-<!--###
+###
 
 <p align="left">Connect with me</p>
-
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://madhuraashture.netlify.app](https://madhuraashture.netlify.app/))
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/madhura-ashture)
+<!--[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 ###
 
 <div align="left">
